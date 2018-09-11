@@ -1,11 +1,4 @@
-# ARIFISTIFIK
-BOT PROTECT PY3 ANTI JS V2 LINE🐦FIXS UPDATE 19 AGUSTUS 2018
-------
-GET TOKEN :
-------
-- `Google Chrome`
-- `http://101.255.95.249:6969`
--
+
 Cara Install Bot :
 ------
 HEADER CHROME
@@ -51,27 +44,4 @@ INSTALL Di TERMUX :
 - `git clone https://github.com/arifistifik/ajs2`
 - `cd ajs2`
 - `python3 ajs.py`
-
-Cara Menjalankan Bot Kembali :
-------
-Di C9 :
-- `cd ajs2`
-- `python3 ajs.py`
-
-Di Termux :
-- `cd ajs2`
-- `python3 ajs.py`
-
-
-EDITOR BY ARIFISTIFIK
-------
-- `Add My ID LINE : ngak punya line😂`
-- `Sambil nonton youtue biar cepet paham yang blom tau. dulu aku juga gitu 😊. Youtube me : ARIFISTIFIK`
-#cuma saran bukan menggurui 😅
-#aku juga masih pekok kuadrat😊
-
-Thx To : ALLOH SWT & All
-------
-- `SALAM HORMAT BUAT PARA MASTAH SEMUANYA 😅 `
-
 
